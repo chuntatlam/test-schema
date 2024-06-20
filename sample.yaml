@@ -1,0 +1,14 @@
+server:
+  host: "localhost"
+  port: 8080
+database:
+  type: "mysql"
+  host: "db.example.com"
+  port: 3306
+  user: "admin"
+  password: "secret"
+users:
+  - username: "user1"
+    email: "user1@example.com"
+  - username: "user2"
+    email: "user2@example.com"
